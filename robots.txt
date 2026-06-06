@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+# Sitemap: agregar la URL absoluta del sitemap cuando se defina el dominio
